@@ -1,0 +1,11 @@
+# Editor/IDE settings
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+
+# Local environment (if you add DB credentials/config later)
+.env
+*.env
+!*.env.example
